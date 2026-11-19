@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://agentopia.town">
-    <img alt="Agentopia banner image" src="https://aju9yvogcxlz4gql.public.blob.vercel-storage.com/agentopia-overview.png" width="100%">
+    <img alt="Agentopia banner image" src="https://aju9yvogcxlz4gql.public.blob.vercel-storage.com/agentopia-overview-v2-1080p-original.gif" width="100%">
 </p>
 
 <p align="left">
